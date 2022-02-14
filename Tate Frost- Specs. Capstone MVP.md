@@ -1,8 +1,8 @@
 <h1>Specializations Capstone Project MVP</h1>
 
-### By: Tate Frost
+# Name: “Stalk Star”
 
-## <h1>Name: “Stalk Star”</h1>
+#### By: Tate Frost<br><br>
 
 ### Pitch/Idea: 
 * Create a web application that allows users to create an account and sign up to receive email notifications when any music artists they select to “follow” releases a new song or music video on their Youtube channel. 
